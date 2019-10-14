@@ -184,3 +184,6 @@ input[type="text"], input[type="email"], input[type="password"] {
 .btn-outline-primary{
 color: #fff
 }
+.cont{
+  background-color: rgba(205, 63, 218, 0.98);
+}
